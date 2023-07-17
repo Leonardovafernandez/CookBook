@@ -1,0 +1,5 @@
+PORT=3000
+
+JWT_HASH="123456789"
+
+DB_URL="postgres://gqpxfkhn:LlwAUMxD5pBMHL9-OfqJ5_W9gftzJIlG@snuffleupagus.db.elephantsql.com/gqpxfkhn"
